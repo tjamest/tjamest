@@ -66,8 +66,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/tjamest/tjamest/output/snake.svg" alt="Snake animation" />
-
-###
 
 
